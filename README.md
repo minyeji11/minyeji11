@@ -1,6 +1,6 @@
 
 <div align="center">
-<h2 >Hello, I'm YeJi👏</h2>
+<h2>Hello, I'm YeJi👏</h2>
 <h3 dir="auto">
 <a id="user-content--front-end-stack-" class="anchor" aria-hidden="true" href="#-front-end-stack-">
 <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
